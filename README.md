@@ -11,4 +11,4 @@ Creting a new Environment:
 conda create -p venv python==3.8 -y
 ```
 
-working is going on
+work is going on
